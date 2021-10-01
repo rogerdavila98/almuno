@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130539124031",
+    "firebase_url": "https://dbalumno-default-rtdb.firebaseio.com",
+    "project_id": "dbalumno",
+    "storage_bucket": "dbalumno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130539124031:android:a09b05a35b827789b14f8a",
+        "android_client_info": {
+          "package_name": "com.example.almuno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130539124031-0mkeu24vvegm8c6lrqqli59hik44ddk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOUmyTJVxOjqjCq1QdfIdLHOcwRaTQLOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130539124031-0mkeu24vvegm8c6lrqqli59hik44ddk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
